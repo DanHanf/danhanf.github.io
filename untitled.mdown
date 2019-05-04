@@ -1,0 +1,20 @@
+# Hello!
+
+[this is me](https://i.imgur.com/u1VGpZT.jpg)
+
+### My name is Dan and this is some of the stuff I have done.
+
+
+#### [chs-tonight](http://chs-tonight.com) 
+##### [Github](https://github.com/DanHanf/chs-source)
+
+chs-tonight is a tool that scrapes the events listings and calendars of several bars, theaters, and venue spots in Charleston, SC. The scrapers run every night, then that data is used to build a new HTML page with details and links to the events. I have a [series](http://xoxodan.com/posts/CHS-TONIGHT%2C-PART-1%3A-HOW-DO%3F) of [blog](http://xoxodan.com/posts/CHS-TONIGHT%2C-PART-2%3A-LEVELDB-AND-HTML-GENERATION--or--HOW-TO-BORE-PEOPLE-WHO-DON'T-PROGRAM-(AND-SOME-WHO-DO)-TO-DEATH) [posts](http://xoxodan.com/posts/CHS-TONIGHT%2C-PART-3%3A-ACHEIVE-HIP-MINIMALIST-STYLES-BY-NOT-HAVING-FUN) that detail the development. 
+
+
+#### Citibike Trip Visualization
+#### [Github](https://github.com/DanHanf/citibike-nyc)
+
+[![nyc citibike trips in september](http://i.imgur.com/HhHSfRt.png)](https://vimeo.com/146713634)
+Citibike hosts open ride data, which I used to make a few visualizations. This project was inspired by [nyc-taxi](https://github.com/morganherlocker/nyc-taxi) and, while now outdated, was still fun to make and pretty to look at. Here's another visualization for [Manhattan](https://vimeo.com/146726859) and [Brooklyn](https://vimeo.com/146947887).
+
+
